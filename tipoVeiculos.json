@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "nome": "COMUM",
+    "apelido": "COMUM",
+    "icone": "C",
+    "tecnologia": []
+  },
+  {
+    "id": 2,
+    "nome": "SEMIPADRON",
+    "apelido": "SEMIPA",
+    "icone": "SP",
+    "tecnologia": []
+  },
+  {
+    "id": 3,
+    "nome": "PADRON",
+    "apelido": "PADRON",
+    "icone": "P",
+    "tecnologia": []
+  },
+  {
+    "id": 4,
+    "nome": "ARTICULADO",
+    "apelido": "ARTICU",
+    "icone": "A",
+    "tecnologia": []
+  },
+  {
+    "id": 5,
+    "nome": "BIARTICULADO",
+    "apelido": "BIARTI",
+    "icone": "B",
+    "tecnologia": []
+  },
+  {
+    "id": 6,
+    "nome": "MICRO",
+    "apelido": "MICRO",
+    "icone": "M",
+    "tecnologia": []
+  },
+  {
+    "id": 7,
+    "nome": "MICROESPECIAL",
+    "apelido": "ESPECI",
+    "icone": "ME",
+    "tecnologia": []
+  },
+  {
+    "id": 8,
+    "nome": "BIARTIC. BIO",
+    "apelido": "BI-BIO",
+    "icone": "B",
+    "tecnologia": [
+      "Biodiesel"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "ARTIC. BIO",
+    "apelido": "AR-BIO",
+    "icone": "A",
+    "tecnologia": [
+      "Biodiesel"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "HIBRIDO",
+    "apelido": "HIBRID",
+    "icone": "P",
+    "tecnologia": [
+      "Híbrido"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "HIBRIDO BIO",
+    "apelido": "HI-BIO",
+    "icone": "P",
+    "tecnologia": [
+      "Híbrido",
+      "Biodiesel"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "ELETRICO",
+    "apelido": "ELETRI",
+    "icone": "P",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "HIBRIDO ARTIC.",
+    "apelido": "HI-ART",
+    "icone": "A",
+    "tecnologia": [
+      "Híbrido"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "SUPERARTICULADO",
+    "apelido": "SUPER",
+    "icone": "S",
+    "tecnologia": []
+  },
+  {
+    "id": 15,
+    "nome": "EPADRON",
+    "apelido": "EPADRO",
+    "icone": "P",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "EARTICULADO",
+    "apelido": "EARTIC",
+    "icone": "A",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "EARTICULADO ESPECIAL",
+    "apelido": "EART-E",
+    "icone": "A",
+    "tecnologia": [
+      "Elétrico",
+      "Especial"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "ARTICULADO ESPECIAL",
+    "apelido": "ART-ES",
+    "icone": "A",
+    "tecnologia": [
+      "Especial"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "PADRON ESPECIAL",
+    "apelido": "PAD-ES",
+    "icone": "P",
+    "tecnologia": [
+      "Especial"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "EPADRON ESPECIAL",
+    "apelido": "EPAD-E",
+    "icone": "P",
+    "tecnologia": [
+      "Elétrico",
+      "Especial"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "ECOMUM",
+    "apelido": "ECOMUM",
+    "icone": "C",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "EMICROESPECIAL",
+    "apelido": "EESPEC",
+    "icone": "ME",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "EBIARTICULADO",
+    "apelido": "EBIART",
+    "icone": "B",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "EMICRO",
+    "apelido": "EMICRO",
+    "icone": "M",
+    "tecnologia": [
+      "Elétrico"
+    ]
+  }
+]
